@@ -1,0 +1,1 @@
+J’ai créé une map qui stocke une personne avec son identifiant. Lorsqu’un client demande un identifiant, le serveur le recherche avec la personne donnée. Si le serveur a trouvé la personne, il renvoie l’identifiant, sinon, il ajoutera la nouvelle personne à la map et renverra un nouvel identifiant
